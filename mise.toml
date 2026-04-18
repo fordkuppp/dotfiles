@@ -1,0 +1,3 @@
+[tasks.switch]
+description = "Apply home-manager configuration"
+run = "home-manager switch --flake ~/Coding/dotfiles"
